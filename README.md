@@ -6,4 +6,4 @@
 
 3. Informe proyecto final
 
-4. Implementacion de Kushki Pagos en PHP
+4. Implementacion de Kushki Pagos en PHP (Codigo Fuente).
